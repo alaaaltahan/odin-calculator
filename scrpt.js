@@ -1,3 +1,6 @@
+let a  = document.querySelector("#firstDigit")
+let b  = document.querySelector("#secondDigit")
+let operator  = document.querySelector("#operator")
 function add(a , b){
     return a  + b
 } 
